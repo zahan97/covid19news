@@ -1,0 +1,40 @@
+.butt {
+    background: #dcdcde;
+    border:none;
+    margin:0;
+    padding:0;
+    width:100%;
+    height:2em;
+    outline:none !important;
+    color: black;
+    margin-bottom:1px;
+    text-decoration: none;
+    border-radius: 3px;
+    
+}
+
+.butt:focus {
+    text-decoration: underline;    
+}
+
+.butt:hover {
+    text-decoration: underline;    
+}
+
+.butt:active {
+    text-decoration: underline
+}
+
+.butt_r {
+    background: white;
+    border:none;
+    margin:0;
+    padding:0;
+    width:100%;
+    height:3em;
+    outline:none !important;
+    color: black;
+    margin-bottom:1px;
+    text-decoration: none;
+    font-size:20px; 
+}
